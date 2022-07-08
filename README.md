@@ -20,6 +20,8 @@ sudo apt install default-jre default-jdk
 java -version
 ```
 
+## o jean eh xato
+
 ## Install media codecs and addons
 ```
 sudo apt install ubuntu-restricted-extras
